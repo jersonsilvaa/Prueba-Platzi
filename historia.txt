@@ -1,6 +1,9 @@
 Estoy haciendo esto para probar como es el uso de git en github
 master class 1 xdxdxd, xdd
 
+experimento 1:
+esta.
+
 estoy haciendo la mecánica de shell jump, ya casi esta lista, solo falta un par de cosas.
 Pero si los manes que hacen videos de Unity lo hacen, más que mejor, ya que quizás alguien lo haga mejor que dorian.
 
